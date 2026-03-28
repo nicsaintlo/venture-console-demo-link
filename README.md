@@ -2,4 +2,4 @@
 
 Stable GitHub Pages redirect for the current Venture Console demo URL.
 
-Current target: https://d7f02dc4e46059.lhr.life
+Current target: https://b08b8c59f6aaca.lhr.life
